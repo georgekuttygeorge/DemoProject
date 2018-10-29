@@ -1,6 +1,5 @@
 # Food List
 
-![alt text](https://github.com/georgekuttygeorge/DemoProject/tree/master/assets/icon.png)
 
 
 Demo Project to CRUD Food List
