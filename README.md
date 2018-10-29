@@ -1,11 +1,9 @@
 # Food List
 Demo Project to CRUD Food List
 
-# Project Start
+Start Project
 npm install
-
 npm start
 
-#Live Project Using Expo:
-
+Live Project Using Expo:
 https://expo.io/@austinroy333/Foodlist
