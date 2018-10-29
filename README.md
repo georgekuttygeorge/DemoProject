@@ -5,8 +5,8 @@
 Demo Project to CRUD Food List
 
 Start Project
-npm install
 
+npm install
 npm start
 
 Live Project Using Expo:
