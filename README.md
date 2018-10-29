@@ -7,7 +7,11 @@ Demo Project to CRUD Food List
 Start Project
 
 npm install
-npm start
+
+Android :react-native run-android
+iOS     :react-native run-iOS
+
+
 
 Live Project Using Expo:
 https://expo.io/@austinroy333/Foodlist
